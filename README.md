@@ -14,3 +14,4 @@ TechStack:
 Uses:
 1. You can individually use code files for AESCryptor or RSA Cryptor as per requirements.
 2. AESCryptor/RSACryptor directly provides encrypt/decrypt methods to be used, basic configurations are used and can be updated if needed.
+3. Digital Signature can be used alongwith RSA to verify the user and boost the security.
